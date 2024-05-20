@@ -6,7 +6,7 @@ Author(s): Abdullah Azhar, Indrasis Chakraborty, Ate Visser, Yang Liu, Jory Chap
 ## Installation
 - Python Env
     - First  `pip install -r requirements.txt`
-    - Then pip install -e .
+    - Then pip install -e 
     
 
 ## Project Detail
